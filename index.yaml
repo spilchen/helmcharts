@@ -11,4 +11,14 @@ entries:
     urls:
     - https://github.com/spilchen/minio/releases/download/0.0.1/minio-operator-0.0.1.tgz
     version: 0.0.1
-generated: "2023-03-03T14:21:17.752296282-04:00"
+  minio-tenant:
+  - apiVersion: v2
+    created: "2023-03-04T08:09:14.820073021-04:00"
+    description: Creates a minio tenant along with s3 bucket creation
+    digest: 5416451db402f5ad1a2d168b1111f5968b99135c4b4199b74aafe4074f0e35bb
+    name: minio-tenant
+    type: application
+    urls:
+    - https://github.com/spilchen/minio/releases/download/0.0.1/minio-tenant-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-04T08:09:14.819709539-04:00"
