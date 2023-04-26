@@ -39,4 +39,14 @@ entries:
     urls:
     - https://github.com/spilchen/minio/releases/download/0.0.1/minio-tenant-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-06T15:23:32.213030627-04:00"
+  verticadb-operator:
+  - apiVersion: v2
+    created: "2023-04-26T14:27:00.879447353-03:00"
+    description: An operator that can deploy and manage Vertica clusters
+    digest: db7699498b1e13c9658a4d5623a85170e888b1ca0510d3e055b4b9dac1057608
+    name: verticadb-operator
+    type: application
+    urls:
+    - https://github.com/spilchen/vertica-kubernetes/releases/download/v1.11.0/verticadb-operator-1.11.0.tgz
+    version: 1.11.0
+generated: "2023-04-26T14:27:00.876110187-03:00"
